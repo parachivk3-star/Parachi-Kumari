@@ -1,0 +1,38 @@
+{
+  "chart_title": "Healthcare Insights: Patient Visits",
+  "data_points": {
+  "General Medicine": {
+    "January": 75,
+    "February": 90,
+    "March": 85,
+    "April": 95,
+    "May": 100,
+    "June": 105
+  },
+  "Pediatrics": {
+    "January": 40,
+    "February": 45,
+    "March": 50,
+    "April": 42,
+    "May": 55,
+    "June": 48
+  },
+  "Dermatology": {
+    "January": 25,
+    "February": 30,
+    "March": 32,
+    "April": 28,
+    "May": 35,
+    "June": 40
+  },
+  "Cardiology": {
+    "January": 18,
+    "February": 22,
+    "March": 20,
+    "April": 25,
+    "May": 27,
+    "June": 30
+  	    }
+	}
+}
+
